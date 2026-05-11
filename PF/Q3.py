@@ -2,6 +2,7 @@
 What is concatenation
 
 The process of joining two or more strings end-to-end to create a new one.
+
 """
 
 #Declaring the operation
